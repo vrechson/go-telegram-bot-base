@@ -4,8 +4,8 @@ import (
 	"log"
 
 	_ "github.com/joho/godotenv/autoload"
-	"github.com/whoismath/degausser/app"
-	"github.com/whoismath/degausser/config"
+	"github.com/whoismath/go-telegram-bot-base/app"
+	"github.com/whoismath/go-telegram-bot-base/config"
 )
 
 func main() {
